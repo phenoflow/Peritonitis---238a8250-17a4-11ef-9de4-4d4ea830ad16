@@ -1,0 +1,96 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/gastric-peritonitis---primary.py
+inputModule3:
+  class: File
+  path: python/peritonitis-specified---primary.py
+inputModule4:
+  class: File
+  path: python/peritonitis-abscess---primary.py
+inputModule5:
+  class: File
+  path: python/duodenal-peritonitis---primary.py
+inputModule6:
+  class: File
+  path: python/acute-peritonitis---primary.py
+inputModule7:
+  class: File
+  path: python/peritonitis---primary.py
+inputModule8:
+  class: File
+  path: python/peritonitis-stomach---primary.py
+inputModule9:
+  class: File
+  path: python/peritonitis-gallbladder---primary.py
+inputModule10:
+  class: File
+  path: python/suppurative-peritonitis---primary.py
+inputModule11:
+  class: File
+  path: python/bacterial-peritonitis---primary.py
+inputModule12:
+  class: File
+  path: python/gastrojejunal-peritonitis---primary.py
+inputModule13:
+  class: File
+  path: python/gonococcal-peritonitis---primary.py
+inputModule14:
+  class: File
+  path: python/peritonitis-pylorus---primary.py
+inputModule15:
+  class: File
+  path: python/peritonitis-duodenum---primary.py
+inputModule16:
+  class: File
+  path: python/peritonitis-appendicitis---primary.py
+inputModule17:
+  class: File
+  path: python/other-peritonitis---primary.py
+inputModule18:
+  class: File
+  path: python/peritonitis-closure---primary.py
+inputModule19:
+  class: File
+  path: python/diverticular-peritonitis---primary.py
+inputModule20:
+  class: File
+  path: python/peritonitis-ileum---primary.py
+inputModule21:
+  class: File
+  path: python/chronic-peritonitis---primary.py
+inputModule22:
+  class: File
+  path: python/peritonitis-jejunum---primary.py
+inputModule23:
+  class: File
+  path: python/peritonitis-perforation---primary.py
+inputModule24:
+  class: File
+  path: python/peritonitis-unspec---primary.py
+inputModule25:
+  class: File
+  path: python/tuberculous-peritonitis---primary.py
+inputModule26:
+  class: File
+  path: python/peritonitis-intestine---primary.py
+inputModule27:
+  class: File
+  path: python/peptic-peritonitis---primary.py
+inputModule28:
+  class: File
+  path: python/peritonitis-appendix---primary.py
+inputModule29:
+  class: File
+  path: python/infectious-peritonitis---primary.py
+inputModule30:
+  class: File
+  path: python/peritonitis-procedure---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
